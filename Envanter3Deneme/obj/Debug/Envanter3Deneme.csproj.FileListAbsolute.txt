@@ -1,0 +1,7 @@
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\bin\Debug\Envanter3Deneme.exe.config
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\bin\Debug\Envanter3Deneme.exe
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\bin\Debug\Envanter3Deneme.pdb
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\obj\Debug\Envanter3Deneme.csprojAssemblyReference.cache
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\obj\Debug\Envanter3Deneme.csproj.CoreCompileInputs.cache
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\obj\Debug\Envanter3Deneme.exe
+C:\Users\AHMET RAŞİT İLHAN\Source\Repos\Envanter3Deneme\Envanter3Deneme\obj\Debug\Envanter3Deneme.pdb
